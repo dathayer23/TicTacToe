@@ -1,0 +1,6 @@
+C:\Users\Sy\Desktop\TicTacToe\bin\Release\TicTacToe.exe.config
+C:\Users\Sy\Desktop\TicTacToe\bin\Release\TicTacToe.exe
+C:\Users\Sy\Desktop\TicTacToe\bin\Release\TicTacToe.pdb
+C:\Users\Sy\Desktop\TicTacToe\obj\Release\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Sy\Desktop\TicTacToe\obj\Release\TicTacToe.exe
+C:\Users\Sy\Desktop\TicTacToe\obj\Release\TicTacToe.pdb
